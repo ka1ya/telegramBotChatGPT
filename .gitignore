@@ -1,5 +1,8 @@
 # Ignore compiled Python files
 config.py
+Pipfile
+Pipfile.lock
+.env
 *.pyc
 *.pyo
 __pycache__/
