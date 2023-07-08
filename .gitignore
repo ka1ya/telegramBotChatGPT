@@ -2,6 +2,7 @@
 config.py
 Pipfile
 Pipfile.lock
+sticker.webp
 .env
 *.pyc
 *.pyo
